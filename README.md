@@ -7,6 +7,8 @@ Flags: use -i for directory, -s for highlighter size, -r|-p for released/pressed
 
 
 ### Require
+
 `feh` [GitHub](https://github.com/derf/feh)
+
 `highlight-pointer` [GitHub](https://github.com/swillner/highlight-pointer)
 
